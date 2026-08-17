@@ -1,0 +1,10 @@
+{
+  "description": "Showcase your artistic talents with a visually engaging portfolio website designed for recent music graduates, featuring dynamic elements and a cohesive layout.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
